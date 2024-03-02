@@ -5,7 +5,7 @@
 	<h3 align="center">🎓 Systems Development Technician and PHP Developer. 🎓</h3>
 </p>
 
-<img width="320" align="right" src="src/teste.gif"/>
+<img width="300" align="right" src="src/teste.gif"/>
 
 ### 🪪 Personal Bio
 
