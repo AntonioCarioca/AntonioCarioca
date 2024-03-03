@@ -1,8 +1,5 @@
-name: Latest DEVto Articles
-on:
-  schedule:
-    - cron: '0 * * * *'
-  workflow_dispatch:
+name: DEVto Articles
+on: [master]
 
 jobs:
   update-readme-with-devto-articles:
