@@ -1,5 +1,5 @@
 name: DEVto Articles
-on: [master]
+on: [push]
 
 jobs:
   update-readme-with-devto-articles:
