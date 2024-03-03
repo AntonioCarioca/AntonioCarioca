@@ -5,7 +5,7 @@
 	<h3 align="center">🎓 Systems Development Technician and PHP Developer. 🎓</h3>
 </p>
 
-<img width="300" align="right" src="src/teste.gif"/>
+<img width="320" align="right" src="src/teste.gif"/>
 
 ### 🪪 Personal Bio
 
@@ -18,6 +18,12 @@
 - 📫 How to reach me **antoniomarcos.silva@protonmail.com**.
 - 📱 Contact me **[Telegram](https://t.me/XxZerooxX)**
 - 📌 Location **Manaus, Amazonas**
+
+### <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="xxzeroxx" height="30" width="40" /> Recent Articles on DEV.to
+
+ <!-- DEVTO-BLOG-LIST:START -->
+
+<!-- DEVTO-BLOG-LIST:END -->
 
 ### 🔗 Connect with me
 <a href="https://dev.to/xxzeroxx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="xxzeroxx" height="30" width="40" /></a>
