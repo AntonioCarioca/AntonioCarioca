@@ -22,7 +22,6 @@
 ### <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="xxzeroxx" height="30" width="40" /> Recent Articles on DEV.to
 
  <!-- DEVTO-BLOG-LIST:START -->
-
 <!-- DEVTO-BLOG-LIST:END -->
 
 ### 🔗 Connect with me
