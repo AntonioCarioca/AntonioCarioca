@@ -22,6 +22,11 @@
 ### <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="xxzeroxx" height="30" width="40" /> Recent Articles on DEV.to
 
 <!-- BLOG-POST-LIST:START -->
+- [PHP 8 News: Match Expression](https://dev.to/xxzeroxx/php-8-news-match-expression-2g28)
+- [PHP 8 News: Attributes](https://dev.to/xxzeroxx/php-8-news-attributes-3)
+- [PHP 8 News: Named Arguments](https://dev.to/xxzeroxx/php-8-news-named-arguments-ibf)
+- [PHP 8 News: Nullsafe Operator](https://dev.to/xxzeroxx/php-8-news-nullsafe-operator-2ejh)
+- [PHP 8 News: Union Types and Mixed Types](https://dev.to/xxzeroxx/php-8-news-union-types-and-mixed-types-l0h)
 <!-- BLOG-POST-LIST:END -->
 
 ### 🔗 Connect with me
