@@ -19,7 +19,14 @@
 - 📱 Contact me **[Telegram](https://t.me/XxZerooxX)**
 - 📌 Location **Manaus, Amazonas**
 
-### <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="xxzeroxx" height="30" width="40" /> Recent Articles on DEV.to
+Connect with me:
+
+<a href="https://dev.to/xxzeroxx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="xxzeroxx" height="30" width="40" /></a>
+<a href="https://hashnode.com/@xxzeroxx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@xxzeroxx" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@xxzeroxx" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="@xxzeroxx" height="30" width="40" /></a>
+
+### <img align="center" src="https://skillicons.dev/icons?i=devto" alt="xxzeroxx" height="30" width="40" /> Recent Articles on DEV.to
 
 <!-- BLOG-POST-LIST:START -->
 - [PHP 8 News: Match Expression](https://dev.to/xxzeroxx/php-8-news-match-expression-2g28)
@@ -28,10 +35,6 @@
 - [PHP 8 News: Nullsafe Operator](https://dev.to/xxzeroxx/php-8-news-nullsafe-operator-2ejh)
 - [PHP 8 News: Union Types and Mixed Types](https://dev.to/xxzeroxx/php-8-news-union-types-and-mixed-types-l0h)
 <!-- BLOG-POST-LIST:END -->
-
-### 🔗 Connect with me
-<a href="https://dev.to/xxzeroxx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="xxzeroxx" height="30" width="40" /></a>
-<a href="https://hashnode.com/@xxzeroxx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@xxzeroxx" height="30" width="40" /></a>
 
 ### ⚙️ Languages and Tools:
 <div align="center">
