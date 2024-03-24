@@ -29,11 +29,11 @@ Connect with me:
 ### <img align="center" src="https://skillicons.dev/icons?i=devto" alt="xxzeroxx" height="30" width="40" /> Recent Articles on DEV.to
 
 <!-- BLOG-POST-LIST:START -->
+- [PHP 8 news: Readonly properties](https://dev.to/xxzeroxx/php-8-news-readonly-properties-2me1)
 - [PHP 8 News: &quot;Never&quot; Return Type](https://dev.to/xxzeroxx/php-8-news-never-return-type-4klb)
 - [PHP: Consuming API with cURL](https://dev.to/xxzeroxx/php-consuming-api-with-curl-42ig)
 - [PHP 8 News: Enumerations](https://dev.to/xxzeroxx/php-8-news-enumerations-2k7m)
 - [PHP 8 News: Match Expression](https://dev.to/xxzeroxx/php-8-news-match-expression-2g28)
-- [PHP 8 News: Attributes](https://dev.to/xxzeroxx/php-8-news-attributes-3)
 <!-- BLOG-POST-LIST:END -->
 
 ### ⚙️ Languages and Tools:
