@@ -29,11 +29,11 @@ Connect with me:
 ### <img align="center" src="https://skillicons.dev/icons?i=devto" alt="xxzeroxx" height="30" width="40" /> Recent Articles on DEV.to
 
 <!-- BLOG-POST-LIST:START -->
+- [Apache Virtual Host: Adding reverse proxy](https://dev.to/xxzeroxx/apache-virtual-host-adding-reverse-proxy-k7)
 - [PHP Apache project with Virtual Host](https://dev.to/xxzeroxx/php-apache-project-with-virtual-host-2npk)
 - [PHP 8 news: Readonly properties](https://dev.to/xxzeroxx/php-8-news-readonly-properties-2me1)
 - [PHP 8 News: &quot;Never&quot; Return Type](https://dev.to/xxzeroxx/php-8-news-never-return-type-4klb)
 - [PHP: Consuming API with cURL](https://dev.to/xxzeroxx/php-consuming-api-with-curl-42ig)
-- [PHP 8 News: Enumerations](https://dev.to/xxzeroxx/php-8-news-enumerations-2k7m)
 <!-- BLOG-POST-LIST:END -->
 
 ### ⚙️ Languages and Tools:
