@@ -29,11 +29,11 @@ Connect with me:
 ### <img align="center" src="https://skillicons.dev/icons?i=devto" alt="xxzeroxx" height="30" width="40" /> Recent Articles on DEV.to
 
 <!-- BLOG-POST-LIST:START -->
+- [MySQL Terminal: Login, Users and Permissions](https://dev.to/xxzeroxx/mysql-terminal-login-users-and-permissions-53ie)
 - [Apache Virtual Host: Load Balancer](https://dev.to/xxzeroxx/apache-virtual-host-load-balancer-37fe)
 - [Apache Virtual Host: Adding Security](https://dev.to/xxzeroxx/apache-virtual-host-adding-security-2e6d)
 - [Apache Virtual Host: Adding reverse proxy](https://dev.to/xxzeroxx/apache-virtual-host-adding-reverse-proxy-k7)
 - [PHP Apache project with Virtual Host](https://dev.to/xxzeroxx/php-apache-project-with-virtual-host-2npk)
-- [PHP 8 news: Readonly properties](https://dev.to/xxzeroxx/php-8-news-readonly-properties-2me1)
 <!-- BLOG-POST-LIST:END -->
 
 ### ⚙️ Languages and Tools:
