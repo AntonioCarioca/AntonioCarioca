@@ -29,11 +29,11 @@ Connect with me:
 ### <img align="center" src="https://skillicons.dev/icons?i=devto" alt="xxzeroxx" height="30" width="40" /> Recent Articles on DEV.to
 
 <!-- BLOG-POST-LIST:START -->
+- [How to update composer](https://dev.to/xxzeroxx/how-to-update-composer-28b4)
 - [How to Update Node.js](https://dev.to/xxzeroxx/how-to-update-nodejs-5d6d)
 - [PHP Design Patterns: Facade](https://dev.to/xxzeroxx/php-design-patterns-facade-4doo)
 - [MySQL Terminal: Create Databases, Tables and more.](https://dev.to/xxzeroxx/mysql-terminal-create-databases-tables-and-more-26j2)
 - [MySQL Terminal: Login, Users and Permissions](https://dev.to/xxzeroxx/mysql-terminal-login-users-and-permissions-53ie)
-- [Apache Virtual Host: Load Balancer](https://dev.to/xxzeroxx/apache-virtual-host-load-balancer-37fe)
 <!-- BLOG-POST-LIST:END -->
 
 ### ⚙️ Languages and Tools:
