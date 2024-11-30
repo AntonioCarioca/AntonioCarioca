@@ -29,11 +29,11 @@ Connect with me:
 ### <img align="center" src="https://skillicons.dev/icons?i=devto" alt="xxzeroxx" height="30" width="40" /> Recent Articles on DEV.to
 
 <!-- BLOG-POST-LIST:START -->
+- [Comprehensive Guidebooks for PHP and Algorithm Learning](https://dev.to/xxzeroxx/comprehensive-guidebooks-for-php-and-algorithm-learning-52l7)
 - [Why Using POST for Updates Is Safer Than Hyperlinks](https://dev.to/xxzeroxx/why-using-post-for-updates-is-safer-than-hyperlinks-2alj)
 - [How to Make Your Own Commands in Linux Terminal](https://dev.to/xxzeroxx/how-to-make-your-own-commands-in-linux-terminal-3ol1)
 - [MySQL Terminal: Add and delete column](https://dev.to/xxzeroxx/mysql-terminal-add-and-delete-column-3pcm)
 - [MySQL Terminal: Alter table, charset and delete](https://dev.to/xxzeroxx/mysql-terminal-alter-table-charset-and-delete-3131)
-- [PHP Design Pattern: Adapter](https://dev.to/xxzeroxx/php-design-pattern-adapter-3hi1)
 <!-- BLOG-POST-LIST:END -->
 
 ### ⚙️ Languages and Tools:
