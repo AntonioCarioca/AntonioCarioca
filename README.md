@@ -29,11 +29,11 @@ Connect with me:
 ### <img align="center" src="https://skillicons.dev/icons?i=devto" alt="xxzeroxx" height="30" width="40" /> Recent Articles on DEV.to
 
 <!-- BLOG-POST-LIST:START -->
+- [PHP Design Patterns: Front Controller](https://dev.to/xxzeroxx/php-design-patterns-front-controller-jjo)
 - [PHP Design Patterns: Page Controller](https://dev.to/xxzeroxx/php-design-patterns-page-controller-34f2)
 - [PHP 8 News: Constructor Property Promotion](https://dev.to/xxzeroxx/php-8-news-constructor-property-promotion-1k30)
 - [Comprehensive Guidebooks for PHP and Algorithm Learning](https://dev.to/xxzeroxx/comprehensive-guidebooks-for-php-and-algorithm-learning-52l7)
 - [Why Using POST for Updates Is Safer Than Hyperlinks](https://dev.to/xxzeroxx/why-using-post-for-updates-is-safer-than-hyperlinks-2alj)
-- [How to Make Your Own Commands in Linux Terminal](https://dev.to/xxzeroxx/how-to-make-your-own-commands-in-linux-terminal-3ol1)
 <!-- BLOG-POST-LIST:END -->
 
 ### ⚙️ Languages and Tools:
