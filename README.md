@@ -29,11 +29,11 @@ Connect with me:
 ### <img align="center" src="https://skillicons.dev/icons?i=devto" alt="xxzeroxx" height="30" width="40" /> Recent Articles on DEV.to
 
 <!-- BLOG-POST-LIST:START -->
+- [Book recommendations for HTML and CSS](https://dev.to/xxzeroxx/recommended-books-for-html-and-css-1j3g)
 - [Book recommendations for PHP.](https://dev.to/xxzeroxx/book-recommendations-for-php-2d88)
 - [PHP Design Patterns: Front Controller](https://dev.to/xxzeroxx/php-design-patterns-front-controller-jjo)
 - [PHP Design Patterns: Page Controller](https://dev.to/xxzeroxx/php-design-patterns-page-controller-34f2)
 - [PHP 8 News: Constructor Property Promotion](https://dev.to/xxzeroxx/php-8-news-constructor-property-promotion-1k30)
-- [Comprehensive Guidebooks for PHP and Algorithm Learning](https://dev.to/xxzeroxx/comprehensive-guidebooks-for-php-and-algorithm-learning-52l7)
 <!-- BLOG-POST-LIST:END -->
 
 ### ⚙️ Languages and Tools:
