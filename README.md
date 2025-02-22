@@ -29,11 +29,11 @@ Connect with me:
 ### <img align="center" src="https://skillicons.dev/icons?i=devto" alt="xxzeroxx" height="30" width="40" /> Recent Articles on DEV.to
 
 <!-- BLOG-POST-LIST:START -->
+- [PHP PSRs : PSR-12 Extended Coding Style Guide](https://dev.to/xxzeroxx/php-psrs-psr-12-extended-coding-style-guide-2fcm)
 - [PHP PSRs : PSR-1 Basic Coding Standard](https://dev.to/xxzeroxx/php-psrs-psr-1-basic-coding-standard-3fla)
 - [Book recommendations for HTML and CSS](https://dev.to/xxzeroxx/recommended-books-for-html-and-css-1j3g)
 - [Book recommendations for PHP.](https://dev.to/xxzeroxx/book-recommendations-for-php-2d88)
 - [PHP Design Patterns: Front Controller](https://dev.to/xxzeroxx/php-design-patterns-front-controller-jjo)
-- [PHP Design Patterns: Page Controller](https://dev.to/xxzeroxx/php-design-patterns-page-controller-34f2)
 <!-- BLOG-POST-LIST:END -->
 
 ### ⚙️ Languages and Tools:
