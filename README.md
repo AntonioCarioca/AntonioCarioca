@@ -29,11 +29,11 @@ Connect with me:
 ### <img align="center" src="https://skillicons.dev/icons?i=devto" alt="xxzeroxx" height="30" width="40" /> Recent Articles on DEV.to
 
 <!-- BLOG-POST-LIST:START -->
+- [PHP PSRs : PSR-4 Autoloader](https://dev.to/xxzeroxx/php-psrs-psr-4-autoloader-58ko)
 - [PHP PSRs : PSR-3 Logger Interface](https://dev.to/xxzeroxx/php-psrs-psr-3-logger-interface-44mo)
 - [PHP - PER Coding Style 2.0](https://dev.to/xxzeroxx/php-per-coding-style-20-44ac)
 - [PHP PSRs : PSR-12 Extended Coding Style Guide](https://dev.to/xxzeroxx/php-psrs-psr-12-extended-coding-style-guide-2fcm)
 - [PHP PSRs : PSR-1 Basic Coding Standard](https://dev.to/xxzeroxx/php-psrs-psr-1-basic-coding-standard-3fla)
-- [Book recommendations for HTML and CSS](https://dev.to/xxzeroxx/recommended-books-for-html-and-css-1j3g)
 <!-- BLOG-POST-LIST:END -->
 
 ### ⚙️ Languages and Tools:
