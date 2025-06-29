@@ -29,11 +29,11 @@ Connect with me:
 ### <img align="center" src="https://skillicons.dev/icons?i=devto" alt="xxzeroxx" height="30" width="40" /> Recent Articles on DEV.to
 
 <!-- BLOG-POST-LIST:START -->
+- [CSS Art: Brazil&#39;s traditional Festas Juninas](https://dev.to/xxzeroxx/css-art-june-celebrations-31bg)
 - [PHP Design Patterns: Remote Facade](https://dev.to/xxzeroxx/php-design-patterns-remote-facade-4gk9)
 - [PHP PSRs : PSR-4 Autoloader](https://dev.to/xxzeroxx/php-psrs-psr-4-autoloader-58ko)
 - [PHP PSRs : PSR-3 Logger Interface](https://dev.to/xxzeroxx/php-psrs-psr-3-logger-interface-44mo)
 - [PHP - PER Coding Style 2.0](https://dev.to/xxzeroxx/php-per-coding-style-20-44ac)
-- [PHP PSRs : PSR-12 Extended Coding Style Guide](https://dev.to/xxzeroxx/php-psrs-psr-12-extended-coding-style-guide-2fcm)
 <!-- BLOG-POST-LIST:END -->
 
 ### ⚙️ Languages and Tools:
