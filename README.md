@@ -46,9 +46,5 @@
 
 ### 📊 GitHub Profile Stats
 
-<div align="center">
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AntonioCarioca&show_icons=true&theme=aura_dark&hide_border=true)](https://github.com/AntonioCarioca/github-readme-stats)
 [![GitHub Streak](https://streak-stats.demolab.com?user=AntonioCarioca&theme=dracula&hide_border=true&border_radius=4&locale=pt_BR&mode=weekly)](https://git.io/streak-stats)
-
-</div>
