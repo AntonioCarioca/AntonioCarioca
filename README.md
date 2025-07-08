@@ -1,69 +1,54 @@
-<img align="center" src="src/banner.png" />
-
-<p align="center">
-	<h1 align="center">XxZeroxX</h1>
-	<h3 align="center">🎓 Systems Development Technician and PHP Developer. 🎓</h3>
-</p>
-
-<img width="320" align="right" src="src/teste.gif"/>
-
-### 🪪 Personal Bio
-
-- 🏫 Education **CETAM - Centro de Educação Tecnológica do Amazonas**
-- 💬 Ask me about **PHP**, **WEB** and **SQL**.
-- 🔭 I’m currently working on **Student**
-- 🌱 I’m currently learning **API:** **REST**, **JSON**, **Postman**.
-- 🤝 I’m looking for help with **PHPFileTool** **https://github.com/AntonioCarioca/PHP-FileTool**
-- 📝 I regularly write articles on **[My Blog](https://antoniosilva.hashnode.dev/)**.
-- 📫 How to reach me **antoniomarcos.silva@protonmail.com**.
-- 📱 Contact me **[Telegram](https://t.me/XxZerooxX)**
-- 📌 Location **Manaus, Amazonas**
-
-Connect with me:
-
-<a href="https://dev.to/xxzeroxx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="xxzeroxx" height="30" width="40" /></a>
-<a href="https://hashnode.com/@xxzeroxx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@xxzeroxx" height="30" width="40" /></a>
-<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@xxzeroxx" height="30" width="40" /></a>
-<a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="@xxzeroxx" height="30" width="40" /></a>
-
-### <img align="center" src="https://skillicons.dev/icons?i=devto" alt="xxzeroxx" height="30" width="40" /> Recent Articles on DEV.to
-
-<!-- BLOG-POST-LIST:START -->
-- [Perfect Landing: Brazil&#39;s traditional Festas Juninas](https://dev.to/xxzeroxx/perfect-landing-brazils-traditional-festas-juninas-2376)
-- [CSS Art: Brazil&#39;s traditional Festas Juninas](https://dev.to/xxzeroxx/css-art-june-celebrations-31bg)
-- [PHP Design Patterns: Remote Facade](https://dev.to/xxzeroxx/php-design-patterns-remote-facade-4gk9)
-- [PHP PSRs : PSR-4 Autoloader](https://dev.to/xxzeroxx/php-psrs-psr-4-autoloader-58ko)
-- [PHP PSRs : PSR-3 Logger Interface](https://dev.to/xxzeroxx/php-psrs-psr-3-logger-interface-44mo)
-<!-- BLOG-POST-LIST:END -->
-
-### ⚙️ Languages and Tools:
-<div align="center">
-	
-[![My Skills](https://skillicons.dev/icons?i=php,html,css,js,c,git,githubactions,latex,laravel,bootstrap,tailwind,mysql,postgres,sqlite,figma,arduino,postman,sublime,linux)](https://skillicons.dev)
-
-</div>
-
-### 🏆 Github Profile Trophy
-
-<div align="center">
+# 🎓 Systems Development Technician and PHP Developer 🎓
 
 ![](https://github-profile-trophy.vercel.app/?username=AntonioCarioca&margin-w=5&theme=darkhub)
 
-</div>
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&logoSize=auto)
+![HTML](https://img.shields.io/badge/HTML-777BB4?style=for-the-badge&logo=html5&logoColor=FFFFFF&color=E34F26&logoSize=auto)
+![CSS](https://img.shields.io/badge/CSS-264DE4?style=for-the-badge&logo=css3&logoColor=FFFFFF&color=264DE4&logoSize=auto)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&logoSize=auto)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white&logoSize=auto)
+![GIT](https://img.shields.io/badge/GIT-F05033?style=for-the-badge&logo=git&logoColor=FFFFFF&color=F05033&logoSize=auto)
+![GITHUB ACTIONS](https://img.shields.io/badge/GITHUB_ACTIONS-2088FF?style=for-the-badge&logo=githubactions&logoColor=FFFFFF&color=2088FF&logoSize=auto)
+![Laravel](https://img.shields.io/badge/Laravel-F55247?style=for-the-badge&logo=laravel&logoColor=white&logoSize=auto)
+![BOOTSTRAP](https://img.shields.io/badge/BOOTSTRAP-7952B3?style=for-the-badge&logo=bootstrap&logoColor=FFFFFF&logoSize=auto)
+![TAILWIND CSS](https://img.shields.io/badge/TAILWIND_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=FFFFFF&logoSize=auto)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=LaTeX&logoColor=FFFFFF&logoSize=auto)
+![MYSQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=FFFFFF&logoSize=auto)
+![postgresql](https://img.shields.io/badge/postgresql-336791?style=for-the-badge&logo=postgresql&logoColor=FFFFFF&logoSize=auto)
+![SQLITE](https://img.shields.io/badge/SQLITE-003B57?style=for-the-badge&logo=sqlite&logoColor=FFFFFF&logoSize=auto)
+![Linux](https://img.shields.io/badge/linux-FFCC00?style=for-the-badge&logo=linux&logoColor=000000&logoSize=auto)
+![COMPOSER](https://img.shields.io/badge/composer-885630?style=for-the-badge&logo=composer&logoColor=FFFFFF&logoSize=auto)
+![PACKAGIST](https://img.shields.io/badge/packagist-F28D1A?style=for-the-badge&logo=packagist&logoColor=FFFFFF&logoSize=auto)
+![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=NPM&logoSize=auto)
+![SASS](https://img.shields.io/badge/sass-CC6699?style=for-the-badge&logo=sass&logoColor=FFFFFF&logoSize=auto)
+
+## 🪪 Personal Bio
+
+- 🎓 Education **CETAM - Centro de Educação Tecnológica do Amazonas**
+- 💬 Ask me about **PHP**, **WEB** and **SQL**
+- 🔭 I’m currently working on **Student**
+- 📝 I regularly write articles on **[My Blog](https://antoniosilva.hashnode.dev/)**
+- 📫 How to reach me **antoniomarcos.silva@protonmail.com**
+- 📱 Contact me **[Telegram](https://t.me/XxZerooxX)**
+- 📌 Location **Manaus, Amazonas**
+	
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioCarioca&layout=compact&theme=aura_dark&hide_border=true)](https://github.com/AntonioCarioca/github-readme-stats)
+
+## Recent Articles on <img align="center" src="https://skillicons.dev/icons?i=devto" alt="xxzeroxx" height="30" width="40" />
+
+<!-- BLOG-POST-LIST:START -->
+- [PHP Design Patterns: Remote Facade](https://dev.to/xxzeroxx/php-design-patterns-remote-facade-4gk9)
+- [PHP PSRs : PSR-4 Autoloader](https://dev.to/xxzeroxx/php-psrs-psr-4-autoloader-58ko)
+- [PHP PSRs : PSR-3 Logger Interface](https://dev.to/xxzeroxx/php-psrs-psr-3-logger-interface-44mo)
+- [PHP - PER Coding Style 2.0](https://dev.to/xxzeroxx/php-per-coding-style-20-44ac)
+- [PHP PSRs : PSR-12 Extended Coding Style Guide](https://dev.to/xxzeroxx/php-psrs-psr-12-extended-coding-style-guide-2fcm)
+<!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Profile Stats
 
 <div align="center">
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AntonioCarioca&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/AntonioCarioca/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioCarioca&layout=donut&theme=tokyonight&hide_border=true)](https://github.com/AntonioCarioca/github-readme-stats)
-
-</div>
-
-### 🔥 GitHub Streak Stats
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=AntonioCarioca&theme=tokyonight&hide_border=true&exclude_days=Sun)](https://git.io/streak-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AntonioCarioca&show_icons=true&theme=aura_dark&hide_border=true)](https://github.com/AntonioCarioca/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=AntonioCarioca&theme=dracula&hide_border=true&border_radius=4&locale=pt_BR&mode=weekly)](https://git.io/streak-stats)
 
 </div>
