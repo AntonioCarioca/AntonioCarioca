@@ -37,11 +37,11 @@
 ## Recent Articles on <img align="center" src="https://skillicons.dev/icons?i=devto" alt="xxzeroxx" height="30" width="40" />
 
 <!-- BLOG-POST-LIST:START -->
+- [PHPUNIT Course - Module 1: Introduction to PHPUnit and the World of Testing](https://dev.to/xxzeroxx/phpunit-course-module-1-introduction-to-phpunit-and-the-world-of-testing-n4h)
 - [From Form to Mascot: My AI App with Google AI Studio](https://dev.to/xxzeroxx/from-form-to-mascot-my-ai-app-with-google-ai-studio-32lk)
 - [Perfect Landing: Brazil&#39;s traditional Festas Juninas](https://dev.to/xxzeroxx/perfect-landing-brazils-traditional-festas-juninas-2376)
 - [CSS Art: Brazil&#39;s traditional Festas Juninas](https://dev.to/xxzeroxx/css-art-june-celebrations-31bg)
 - [PHP Design Patterns: Remote Facade](https://dev.to/xxzeroxx/php-design-patterns-remote-facade-4gk9)
-- [PHP PSRs : PSR-4 Autoloader](https://dev.to/xxzeroxx/php-psrs-psr-4-autoloader-58ko)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Profile Stats
