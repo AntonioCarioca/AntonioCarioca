@@ -37,11 +37,11 @@
 ## Recent Articles on <img align="center" src="https://skillicons.dev/icons?i=devto" alt="xxzeroxx" height="30" width="40" />
 
 <!-- BLOG-POST-LIST:START -->
+- [Module 4: Uncovering Test Doubles &lpar;Mocks and Stubs&rpar;](https://dev.to/xxzeroxx/module-4-uncovering-test-doubles-mocks-and-stubs-4f6f)
 - [Module 3: Deepening Your Testing Knowledge](https://dev.to/xxzeroxx/module-3-deepening-your-testing-knowledge-375b)
 - [Module 2: Writing Basic Tests and Assertions](https://dev.to/xxzeroxx/module-2-writing-basic-tests-and-assertions-5hgo)
 - [Module 1: Introduction to PHPUnit and the World of Testing](https://dev.to/xxzeroxx/phpunit-course-module-1-introduction-to-phpunit-and-the-world-of-testing-n4h)
 - [From Form to Mascot: My AI App with Google AI Studio](https://dev.to/xxzeroxx/from-form-to-mascot-my-ai-app-with-google-ai-studio-32lk)
-- [Perfect Landing: Brazil&#39;s traditional Festas Juninas](https://dev.to/xxzeroxx/perfect-landing-brazils-traditional-festas-juninas-2376)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Profile Stats
