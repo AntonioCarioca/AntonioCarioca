@@ -37,11 +37,11 @@
 ## Recent Articles on <img align="center" src="https://skillicons.dev/icons?i=devto" alt="xxzeroxx" height="30" width="40" />
 
 <!-- BLOG-POST-LIST:START -->
+- [Responsive Images in HTML](https://dev.to/xxzeroxx/responsive-images-in-html-3pf6)
 - [How to create and publish your own packages on Packagist](https://dev.to/xxzeroxx/how-to-create-and-publish-your-own-packages-on-packagist-2ho3)
 - [Module 5: Advanced Topics and Best Practices](https://dev.to/xxzeroxx/module-5-advanced-topics-and-best-practices-48go)
 - [Module 4: Uncovering Test Doubles &lpar;Mocks and Stubs&rpar;](https://dev.to/xxzeroxx/module-4-uncovering-test-doubles-mocks-and-stubs-4f6f)
 - [Module 3: Deepening Your Testing Knowledge](https://dev.to/xxzeroxx/module-3-deepening-your-testing-knowledge-375b)
-- [Module 2: Writing Basic Tests and Assertions](https://dev.to/xxzeroxx/module-2-writing-basic-tests-and-assertions-5hgo)
 <!-- BLOG-POST-LIST:END -->
 
 ### 📊 GitHub Profile Stats
